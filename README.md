@@ -1,4 +1,4 @@
-**If you know what your doing just delete 2 ExampleBot**
+**If you know what your doing just delete 2 ExampleBot and `example.js` file**
 
 ## Creating New Bot
 > It comes with a command & event handler.
