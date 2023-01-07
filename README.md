@@ -1,3 +1,5 @@
+**If you know what your doing just delete 2 ExampleBot**
+
 ## Creating New Bot
 > It comes with a command & event handler.
 
